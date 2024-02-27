@@ -13,12 +13,10 @@ public class Main {
         aluno = entrada.nextInt();
 
         switch (aluno){
-            case 10:
+            case 10,20:
                 System.out.println("Sala I-16");
                 break;
-            case 20:
-                System.out.println("Sala I-16");
-                break;
+
             case 30:
                 System.out.println("Sala I-22");
                 break;
